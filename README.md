@@ -2,4 +2,4 @@
 
 This is the website for InnStereo. You can view it at:
 
-http://innstereo.github.io/
+https://innstereo.github.io/
